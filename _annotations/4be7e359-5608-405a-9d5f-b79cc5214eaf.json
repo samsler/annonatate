@@ -1,0 +1,38 @@
+---
+canvas: "https://samsler.github.io/annonatate/img/derivatives/iiif/campocolognobahnhof/canvas/campocolognobahnhof-1"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Bahnhofschild",
+            "purpose": "describing",
+            "creator": {
+                "id": "samsler",
+                "name": "samsler"
+            },
+            "created": "2025-03-21T13:27:00.181Z",
+            "modified": "2025-03-21T13:27:07.223Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://samsler.github.io/annonatate/img/derivatives/iiif/campocolognobahnhof/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://samsler.github.io/annonatate/img/derivatives/iiif/campocolognobahnhof/canvas/campocolognobahnhof-1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=1067.029296875,217.3755645751953,240.9088134765625,102.88813781738281"
+        }
+    },
+    "id": "4be7e359-5608-405a-9d5f-b79cc5214eaf.json",
+    "motivation": "commenting"
+}
