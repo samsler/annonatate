@@ -1,0 +1,66 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://samsler.github.io/annonatate/img/derivatives/iiif/campocolognobahnhof//default2",
+  "height": 972,
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "sizes": [
+    {
+      "height": 243,
+      "width": 375
+    },
+    {
+      "height": 122,
+      "width": 188
+    },
+    {
+      "height": 61,
+      "width": 94
+    },
+    {
+      "height": 30,
+      "width": 47
+    },
+    {
+      "height": 15,
+      "width": 23
+    },
+    {
+      "height": 8,
+      "width": 12
+    },
+    {
+      "height": 4,
+      "width": 6
+    },
+    {
+      "height": 2,
+      "width": 3
+    },
+    {
+      "height": 1,
+      "width": 1
+    }
+  ],
+  "tiles": [
+    {
+      "height": 512,
+      "scaleFactors": [
+        1,
+        2
+      ],
+      "width": 512
+    }
+  ],
+  "width": 1500
+}
