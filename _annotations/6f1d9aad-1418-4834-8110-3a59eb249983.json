@@ -1,0 +1,44 @@
+---
+canvas: "https://samsler.github.io/annonatate/img/derivatives/iiif/campocolognobahnhof/canvas/campocolognobahnhof-1"
+order: 2
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "purpose": "geotagging",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1416776,
+                    46.2331537
+                ]
+            },
+            "source": "https://www.openstreetmap.org/node/476795337",
+            "creator": {
+                "id": "samsler",
+                "name": "samsler"
+            },
+            "created": "2025-03-21T13:33:24.011Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://samsler.github.io/annonatate/img/derivatives/iiif/campocolognobahnhof/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://samsler.github.io/annonatate/img/derivatives/iiif/campocolognobahnhof/canvas/campocolognobahnhof-1",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=355.17730712890625,276.04132080078125,398.168701171875,169.80722045898438"
+        }
+    },
+    "id": "6f1d9aad-1418-4834-8110-3a59eb249983.json",
+    "motivation": "commenting"
+}
