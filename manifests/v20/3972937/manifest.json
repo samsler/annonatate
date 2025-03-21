@@ -1,0 +1,193 @@
+---
+added: '2025-03-21 13:24:42.060254'
+thumbnail: https://www.e-rara.ch/i3f/v21/3972940/full/304/0/default.jpg
+title: "3. Send-Schreiben der K\xF6nigin Elisabeth an die XIII. Orte loblicher Eidgnossschafft,\
+  \ den 18. Heumonat 1590"
+user: samsler
+
+---
+{
+  "viewingHint": "paged",
+  "attribution": "e-rara, the platform for digitized rare books from Swiss institutions",
+  "service": [],
+  "structures": [],
+  "sequences": [
+    {
+      "canvases": [
+        {
+          "height": 3550,
+          "width": 2740,
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://www.e-rara.ch/i3f/v20/3972940"
+                },
+                "format": "image/jpeg",
+                "height": 1295,
+                "width": 1000,
+                "@id": "https://www.e-rara.ch/download/webcache/1000/3972940",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://www.e-rara.ch/i3f/v20/3972937/canvas/3972940",
+              "motivation": "sc:painting",
+              "@id": "https://www.e-rara.ch/i3f/v20/3972937/annotation/3972940",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "label": "2",
+          "@id": "https://www.e-rara.ch/i3f/v20/3972937/canvas/3972940",
+          "@type": "sc:Canvas"
+        },
+        {
+          "height": 3550,
+          "width": 2740,
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://www.e-rara.ch/i3f/v20/3972941"
+                },
+                "format": "image/jpeg",
+                "height": 1295,
+                "width": 1000,
+                "@id": "https://www.e-rara.ch/download/webcache/1000/3972941",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://www.e-rara.ch/i3f/v20/3972937/canvas/3972941",
+              "motivation": "sc:painting",
+              "@id": "https://www.e-rara.ch/i3f/v20/3972937/annotation/3972941",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "label": "3",
+          "@id": "https://www.e-rara.ch/i3f/v20/3972937/canvas/3972941",
+          "@type": "sc:Canvas"
+        },
+        {
+          "height": 3550,
+          "width": 2740,
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://www.e-rara.ch/i3f/v20/3972942"
+                },
+                "format": "image/jpeg",
+                "height": 1295,
+                "width": 1000,
+                "@id": "https://www.e-rara.ch/download/webcache/1000/3972942",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://www.e-rara.ch/i3f/v20/3972937/canvas/3972942",
+              "motivation": "sc:painting",
+              "@id": "https://www.e-rara.ch/i3f/v20/3972937/annotation/3972942",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "label": "4",
+          "@id": "https://www.e-rara.ch/i3f/v20/3972937/canvas/3972942",
+          "@type": "sc:Canvas"
+        },
+        {
+          "height": 3550,
+          "width": 2740,
+          "images": [
+            {
+              "resource": {
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://www.e-rara.ch/i3f/v20/3972943"
+                },
+                "format": "image/jpeg",
+                "height": 1295,
+                "width": 1000,
+                "@id": "https://www.e-rara.ch/download/webcache/1000/3972943",
+                "@type": "dctypes:Image"
+              },
+              "on": "https://www.e-rara.ch/i3f/v20/3972937/canvas/3972943",
+              "motivation": "sc:painting",
+              "@id": "https://www.e-rara.ch/i3f/v20/3972937/annotation/3972943",
+              "@type": "oa:Annotation"
+            }
+          ],
+          "label": "5",
+          "@id": "https://www.e-rara.ch/i3f/v20/3972937/canvas/3972943",
+          "@type": "sc:Canvas"
+        }
+      ],
+      "viewingHint": "paged",
+      "startCanvas": "https://www.e-rara.ch/i3f/v20/3972937/canvas/3972940",
+      "viewingDirection": "left-to-right",
+      "label": "Current Page Order",
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://www.e-rara.ch/i3f/v20/3972937/sequence/normal",
+      "@type": "sc:Sequence"
+    }
+  ],
+  "label": "3. Send-Schreiben der K\u00f6nigin Elisabeth an die XIII. Orte loblicher Eidgnossschafft, den 18. Heumonat 1590",
+  "thumbnail": {
+    "width": 304,
+    "height": 393,
+    "@id": "https://www.e-rara.ch/i3f/v21/3972940/full/304/0/default.jpg",
+    "@type": "dctypes:Image",
+    "format": "image/jpeg"
+  },
+  "logo": {
+    "@id": "https://www.e-rara.ch/domainresource/static/graphics/connectors/eraraIco.gif",
+    "service": {
+      "profile": "http://iiif.io/api/image/2/level2.json",
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "http://www.zb.uzh.ch"
+    }
+  },
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "metadata": [
+    {
+      "value": "3. Send-Schreiben der K\u00f6nigin Elisabeth an die XIII. Orte loblicher Eidgnossschafft, den 18. Heumonat 1590",
+      "label": "Titel"
+    },
+    {
+      "value": "Elisabeth < I. England, K\u00f6nigin >  [1533-1603] ",
+      "label": "Autor, Beteiligte"
+    },
+    {
+      "value": "[Z\u00fcrich] : [Verlag nicht ermittelbar], im Jahr 1691",
+      "label": "Impressum"
+    },
+    {
+      "value": "Von Neuem getruckt",
+      "label": "Ausgabe"
+    },
+    {
+      "value": "[2] Bl. ; 22 cm (4\u00b0)",
+      "label": "Umfang"
+    },
+    {
+      "value": "Zentralbibliothek Z\u00fcrich, 18.486,3",
+      "label": "Besitzende Institution"
+    },
+    {
+      "value": "12.9.2012",
+      "label": "Online seit"
+    },
+    {
+      "value": "https://doi.org/10.3931/e-rara-12994",
+      "label": "DOI"
+    }
+  ],
+  "@id": "https://samsler.github.io/annonatate/manifests/v20/3972937/manifest.json",
+  "@type": "sc:Manifest",
+  "seeAlso": {
+    "format": "application/xml",
+    "@id": "https://www.e-rara.ch/oai?verb=GetRecord&metadataPrefix=mets&identifier=3972937",
+    "label": "METS"
+  }
+}
